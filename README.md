@@ -47,9 +47,10 @@ learned in this course and get a sense of accomplishment.
 |  H_Team_Elo_Before |                   Home team's elo rating before this game                  |
 |  A_Team_Elo_Before |                   Away team's elo rating before this game                  |
 ### Result
-dataset 1:
+-dataset 1:
 ![image](https://github.com/yangalt/nba-prediction/blob/main/picture/dataset1.JPG)
-dataset 2:
+-dataset 2:
+![image](https://github.com/yangalt/nba-prediction/blob/main/picture/dataset2.JPG)
 ### Contribution
 - 109550046楊竣傑(80%):coding, 15-min video recorded presentation, GitHub repository
 - 109550056黃韋傑(20%):2-page written report
