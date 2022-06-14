@@ -49,5 +49,5 @@ learned in this course and get a sense of accomplishment.
 ### Result
 
 ### Contribution
-109550046楊竣傑(80%):coding, 15-min video recorded presentation, GitHub repository
-109550056黃韋傑(20%):2-page written report
+- 109550046楊竣傑(80%):coding, 15-min video recorded presentation, GitHub repository
+- 109550056黃韋傑(20%):2-page written report
