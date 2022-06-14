@@ -47,7 +47,9 @@ learned in this course and get a sense of accomplishment.
 |  H_Team_Elo_Before |                   Home team's elo rating before this game                  |
 |  A_Team_Elo_Before |                   Away team's elo rating before this game                  |
 ### Result
-
+dataset 1:
+![image](https://github.com/Willy0921/2022NYCU-AI-Final-Project/blob/main/Freeway%20AI/freeway.png)
+datasrt 2:
 ### Contribution
 - 109550046楊竣傑(80%):coding, 15-min video recorded presentation, GitHub repository
 - 109550056黃韋傑(20%):2-page written report
