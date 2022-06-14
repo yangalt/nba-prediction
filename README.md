@@ -12,7 +12,6 @@ learned in this course and get a sense of accomplishment.
 ### Prerequisites
 - pip install nba_api
 ### data description
-AWAY_STL,AWAY_BLK,AWAY_PF,AWAY_PTS,AWAY_PLUS_MINUS,HOME_TEAM_ABBREVIATION,HOME_STL,HOME_BLK,HOME_PF,HOME_PTS,HOME_PLUS_MINUS,HOME_OFF_RATING,HOME_DEF_RATING,HOME_AST_TOV,HOME_AST_RATIO,HOME_OREB_PCT,HOME_DREB_PCT,HOME_REB_PCT,HOME_TM_TOV_PCT,HOME_TS_PCT,HOME_PACE,HOME_PIE,AWAY_OFF_RATING,AWAY_DEF_RATING,AWAY_AST_TOV,AWAY_AST_RATIO,AWAY_OREB_PCT,AWAY_DREB_PCT,AWAY_REB_PCT,AWAY_TM_TOV_PCT,AWAY_TS_PCT,AWAY_E_PACE,AWAY_PACE,AWAY_PIE,HomeWin
 
 |     Column Name    |                              Description                                   |
 |:------------------:|:--------------------------------------------------------------------------:|
@@ -47,3 +46,8 @@ AWAY_STL,AWAY_BLK,AWAY_PF,AWAY_PTS,AWAY_PLUS_MINUS,HOME_TEAM_ABBREVIATION,HOME_S
 |       HomeWin      |           If,data is 1,home team wins,else if data is 0,away team wins     |
 |  H_Team_Elo_Before |                   Home team's elo rating before this game                  |
 |  A_Team_Elo_Before |                   Away team's elo rating before this game                  |
+### Result
+
+### Contribution
+109550046楊竣傑(80%):coding, 15-min video recorded presentation, GitHub repository
+109550056黃韋傑(20%):2-page written report
