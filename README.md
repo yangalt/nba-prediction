@@ -48,8 +48,8 @@ learned in this course and get a sense of accomplishment.
 |  A_Team_Elo_Before |                   Away team's elo rating before this game                  |
 ### Result
 dataset 1:
-![image](https://github.com/Willy0921/2022NYCU-AI-Final-Project/blob/main/Freeway%20AI/freeway.png)
-datasrt 2:
+![image](https://github.com/yangalt/nba-prediction/blob/main/picture/dataset1.JPG)
+dataset 2:
 ### Contribution
 - 109550046楊竣傑(80%):coding, 15-min video recorded presentation, GitHub repository
 - 109550056黃韋傑(20%):2-page written report
